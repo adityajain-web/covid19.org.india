@@ -1,0 +1,12 @@
+export { default as Statistics } from './Statistics/Stastics';
+export { default as Symptoms } from './Symptoms/Symptoms';
+export { default as BookATest } from './Test/BookATest';
+export { default as Vaccination } from './Vaccination/Vaccination';
+export { default as Header } from './Header/Header';
+export { default as Main } from './Main/Main';
+export { default as AcrossIndia } from './AcrossIndia/AcrossIndia';
+export { default as SymptomsMain } from './SymptomsMain/SymptomsMain';
+export { default as TestMain } from './Test/TestMain';
+export { default as VaccinationMain } from './Vaccination/VaccinationMain';
+export { default as ListItem } from './Vaccination/ListItem';
+export { default as Footer } from './Footer/Footer';
