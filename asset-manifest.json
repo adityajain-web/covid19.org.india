@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/covid19.org.india/static/css/main.c07f54cc.chunk.css",
+    "main.js": "/covid19.org.india/static/js/main.c8e894ea.chunk.js",
+    "main.js.map": "/covid19.org.india/static/js/main.c8e894ea.chunk.js.map",
+    "runtime-main.js": "/covid19.org.india/static/js/runtime-main.452d8361.js",
+    "runtime-main.js.map": "/covid19.org.india/static/js/runtime-main.452d8361.js.map",
+    "static/css/2.b91afa82.chunk.css": "/covid19.org.india/static/css/2.b91afa82.chunk.css",
+    "static/js/2.f24e4296.chunk.js": "/covid19.org.india/static/js/2.f24e4296.chunk.js",
+    "static/js/2.f24e4296.chunk.js.map": "/covid19.org.india/static/js/2.f24e4296.chunk.js.map",
+    "index.html": "/covid19.org.india/index.html",
+    "static/css/2.b91afa82.chunk.css.map": "/covid19.org.india/static/css/2.b91afa82.chunk.css.map",
+    "static/css/main.c07f54cc.chunk.css.map": "/covid19.org.india/static/css/main.c07f54cc.chunk.css.map",
+    "static/js/2.f24e4296.chunk.js.LICENSE.txt": "/covid19.org.india/static/js/2.f24e4296.chunk.js.LICENSE.txt",
+    "static/media/cowin-banner.9ca892c9.jpg": "/covid19.org.india/static/media/cowin-banner.9ca892c9.jpg",
+    "static/media/handWash.16ab5935.svg": "/covid19.org.india/static/media/handWash.16ab5935.svg",
+    "static/media/ifPossitive.3e2cc839.jpg": "/covid19.org.india/static/media/ifPossitive.3e2cc839.jpg",
+    "static/media/navbarBrand.ad3f2280.svg": "/covid19.org.india/static/media/navbarBrand.ad3f2280.svg",
+    "static/media/nsal.5ee621aa.jpg": "/covid19.org.india/static/media/nsal.5ee621aa.jpg",
+    "static/media/socialDistance.83091d7f.svg": "/covid19.org.india/static/media/socialDistance.83091d7f.svg",
+    "static/media/swab.18c5a53e.jpg": "/covid19.org.india/static/media/swab.18c5a53e.jpg",
+    "static/media/vaccination.001124d0.svg": "/covid19.org.india/static/media/vaccination.001124d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.452d8361.js",
+    "static/css/2.b91afa82.chunk.css",
+    "static/js/2.f24e4296.chunk.js",
+    "static/css/main.c07f54cc.chunk.css",
+    "static/js/main.c8e894ea.chunk.js"
+  ]
+}
